@@ -74,3 +74,24 @@ publish/Application Files/YouTubeDownloader_1_0_0_0/yt-dlp.exe.deploy
 publish/Mei's YouTube Downloader.application
 publish/setup.exe
 publish/YouTubeDownloader.application
+.vs/YouTubeDownloader/v16/.suo
+App.config
+bin/Debug/app.publish/Application Files/Mei's YouTube Downloader_1_0_0_2/ffmpeg.exe.deploy
+bin/Debug/app.publish/Application Files/Mei's YouTube Downloader_1_0_0_2/ffplay.exe.deploy
+bin/Debug/app.publish/Application Files/Mei's YouTube Downloader_1_0_0_2/ffprobe.exe.deploy
+bin/Debug/app.publish/Application Files/Mei's YouTube Downloader_1_0_0_2/Meduza_Logo_1080_NoBKG.ico.deploy
+bin/Debug/app.publish/Application Files/Mei's YouTube Downloader_1_0_0_2/Mei's YouTube Downloader.exe.config.deploy
+bin/Debug/app.publish/Application Files/Mei's YouTube Downloader_1_0_0_2/Mei's YouTube Downloader.exe.deploy
+bin/Debug/app.publish/Application Files/Mei's YouTube Downloader_1_0_0_2/Mei's YouTube Downloader.exe.manifest
+bin/Debug/app.publish/Application Files/Mei's YouTube Downloader_1_0_0_2/yt-dlp.exe.deploy
+DebugToolbox.resx
+Downloader.resx
+ffmpeg.exe
+ffplay.exe
+ffprobe.exe
+MeisYouTubeDownloader.vbproj
+MeisYouTubeDownloader.vbproj.user
+TitleSorter.resx
+YouTubeDownloader.sln
+YouTubeDownloader_TemporaryKey.pfx
+yt-dlp.exe
