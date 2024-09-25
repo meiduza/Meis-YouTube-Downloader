@@ -9,5 +9,7 @@
 The app requires .Net Framework 4.5 or later, and the Visual 2019 C++ Redistributable, and was designed to run only on Windows 10 and up.
 
 Thanks to much smarter people than myself:
+
 YT-DLP: https://github.com/yt-dlp/yt-dlp
+
 FFmpeg: https://www.ffmpeg.org/ffmpeg.html
