@@ -1,0 +1,2 @@
+[DownloadLocation]E:\Downloads
+[DownloadType]Audio
